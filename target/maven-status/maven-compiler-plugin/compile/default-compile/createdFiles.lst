@@ -1,5 +1,6 @@
 org/example/coffeeMachine/dto/CoffeeCreateDto.class
 org/example/coffeeMachine/CofeeMachineApplication.class
+org/example/coffeeMachine/controller/ControllerExceptionHandler.class
 org/example/coffeeMachine/mapper/CoffeeMapper.class
 org/example/coffeeMachine/service/CoffeeService.class
 org/example/coffeeMachine/mapper/CoffeeMapperImpl.class

@@ -1,5 +1,6 @@
 /home/epita/Epita/APPING2/JAVA/CoffeMachineV2/src/main/java/org/example/coffeeMachine/CofeeMachineApplication.java
 /home/epita/Epita/APPING2/JAVA/CoffeMachineV2/src/main/java/org/example/coffeeMachine/controller/CoffeeController.java
+/home/epita/Epita/APPING2/JAVA/CoffeMachineV2/src/main/java/org/example/coffeeMachine/controller/ControllerExceptionHandler.java
 /home/epita/Epita/APPING2/JAVA/CoffeMachineV2/src/main/java/org/example/coffeeMachine/dto/CoffeeCreateDto.java
 /home/epita/Epita/APPING2/JAVA/CoffeMachineV2/src/main/java/org/example/coffeeMachine/dto/CoffeeDto.java
 /home/epita/Epita/APPING2/JAVA/CoffeMachineV2/src/main/java/org/example/coffeeMachine/entity/Coffee.java
