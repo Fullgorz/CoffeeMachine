@@ -1,0 +1,10 @@
+org/example/coffeeMachine/dto/CoffeeCreateDto.class
+org/example/coffeeMachine/CofeeMachineApplication.class
+org/example/coffeeMachine/mapper/CoffeeMapper.class
+org/example/coffeeMachine/service/CoffeeService.class
+org/example/coffeeMachine/mapper/CoffeeMapperImpl.class
+org/example/coffeeMachine/service/CoffeeServiceImpl.class
+org/example/coffeeMachine/dto/CoffeeDto.class
+org/example/coffeeMachine/entity/Coffee.class
+org/example/coffeeMachine/repository/CoffeeRepository.class
+org/example/coffeeMachine/controller/CoffeeController.class
